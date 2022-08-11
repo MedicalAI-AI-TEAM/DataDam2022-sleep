@@ -1,0 +1,9 @@
+scipy==1.7.3
+scikit-learn==1.1.1
+pandas==1.4.2
+pyedflib==0.1.30
+numpy==1.23.1
+torch 
+torchvision 
+torchaudio 
+--extra-index-url https://download.pytorch.org/whl/cu113
